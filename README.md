@@ -1,8 +1,8 @@
-Hi! 🖐I'm Joshua from the Philippines. <br/>
+Hi! 🖐 I'm Joshua from the Philippines. <br/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=FULL%20STACK%20DEVELOPER;DEVOPS%20ENGINEER) <br />
 
-Visit my website [here](https://joshuavillanueva.netlify.app/)
+Visit my website [joshuavillanueva.netlify.app](https://joshuavillanueva.netlify.app/)
   
 <!-- ![](https://64.media.tumblr.com/023e918ed2089ab87042c548f06d1e9f/tumblr_mgsj51TyPo1r0a5pgo1_500.gif) <br /> -->
 
